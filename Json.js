@@ -1,4 +1,4 @@
-let markers = [
+[
         {
           coords:{lat:16.08638889,lng:119.78888889},
           content:'<h1>Agno, Pinsal Falls</h1>'
