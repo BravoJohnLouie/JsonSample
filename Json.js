@@ -132,5 +132,3 @@ let markers = [
           content:'<h1></h1>'
         }
       ];
-
-          iconImage:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
